@@ -1,0 +1,58 @@
+/*body {background: #fc0;}*/
+
+#slider {
+	border-top: 1px solid #e5eaef;
+	border-left: 1px solid #e5eaef;
+}
+
+#footer-widget-area img {
+	border: 1px solid #fff;
+}
+
+#access ul ul {
+	border: 1px solid #e5eaef;
+}
+
+#content table {
+	border: 1px solid #e5eaef;
+}
+
+td {
+	width: 300px;
+}
+
+#content tr th,
+#content thead th {
+	text-align: left;
+}
+
+.vimeo-player,
+.youtube-player {
+	border: 1px solid #e5eaef;
+}
+
+.widget-container.posts img {
+	border: 1px solid #e5eaef;
+}
+
+#homepage-widget-area img {
+	border: 1px solid #e5eaef;
+}
+
+#entry-author-info {
+	border: 1px solid #e5eaef;
+}
+
+#primary {
+	border-top: 1px solid #e5eaef;
+	border-left: 1px solid #e5eaef;
+}
+
+#homepage-widget-area img {
+	border: 1px solid #01080E;
+}
+
+.vimeo-player,
+.youtube-player {
+	border: 1px solid #01080E;
+}

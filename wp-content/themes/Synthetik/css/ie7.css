@@ -1,0 +1,160 @@
+#header {
+	/*margin: 0 auto;
+				padding-top: 25px;
+				padding-bottom: 0;
+				margin-bottom: -15px;*/
+}
+
+/*ul.social_icons {
+	margin: 0 0 11px 0;
+	padding: 0;
+}*/
+
+ul.social_icons li {
+	display: inline;
+	margin-left: 9px;
+}
+
+#site-title { padding-bottom: 40px; }
+
+#slider {
+	z-index: 1;
+	position: relative;
+	margin: 0 auto 30px auto;
+	width: 980px;
+	border: 1px solid #e5eaef;
+}
+
+/*#slider {
+	position: relative;
+	width: 940px;
+	margin: 0 auto 30px auto;
+	border: 1px solid #e5eaef;
+}*/
+
+/*#footer-widget-area #first {
+	border: 1px solid #e5eaef;
+	padding-top: 15px;
+}
+
+#footer-widget-area #second {
+	border: 1px solid #e5eaef;
+	padding-top: 15px;
+}*/
+
+#footer-widget-area img {
+	border: 1px solid #fff;
+}
+
+/*#home-message {
+	border-top: 1px solid #eff0f1;
+}*/
+
+#gplus {
+	display: none;
+}
+
+#content.portfolio {
+	padding: 6px 0 0 0;
+	margin-bottom: 0;
+	margin-left: 40px;
+}
+
+#content ul.portfolio-list {}
+
+#access ul ul {
+	border: 1px solid #e5eaef;
+}
+
+#content table {
+	border: 1px solid #e5eaef;
+}
+
+td {
+	width: 300px;
+}
+
+ul.portfolio-filter {
+	padding-top: 2px;
+}
+
+.searchform-header input {
+	line-height: 21px;
+}
+
+.vimeo-player,
+.youtube-player {
+	border: 1px solid #e5eaef;
+}
+
+.widget-container.posts img {
+	border: 1px solid #e5eaef;
+}
+
+#homepage-widget-area img {
+	border: 1px solid #e5eaef;
+}
+
+#entry-author-info {
+	border: 1px solid #e5eaef;
+}
+
+#footer-right-side {}
+
+.portfolio-filter-container {
+	padding: 6px 0 10px 0;
+}
+
+#home-message {
+	margin: 0 0 0 40px;
+}
+
+#primary {
+	border: 1px solid #e5eaef;
+}
+
+.categories-img, .cat-links {
+	margin-top: -20px;
+}
+
+#homepage-widget-area img {
+	border: 1px solid #01080E;
+}
+
+.vimeo-player,
+.youtube-player {
+	border: 1px solid #01080E;
+}
+
+#access .menu-header,
+#access div.menu {
+	margin: -15px 0 0 0;
+}
+
+.searchform-header {
+	margin-top: -11px;
+}
+
+#footer-bottom {
+	margin-top: 0;
+}
+
+#site-info ul li {
+	display: inline;
+}
+
+#content h1.page-title {
+	margin-top: -21px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,445 @@
+# Translation of Twenty Ten in Sundanese
+# This file is distributed under the same license as the Twenty Ten package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Ten\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/twentyten\n"
+"POT-Creation-Date: 2010-07-14 16:21+0000\n"
+"PO-Revision-Date: 2010-08-02 00:30+0700\n"
+"Last-Translator: Dadan Nasrullah <de.nasrul@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"X-Poedit-Language: Sundanese\n"
+"X-Poedit-Country: INDONESIA\n"
+
+#: 404.php:16
+#: loop.php:33
+msgid "Not Found"
+msgstr "Teu Kapendak"
+
+#: 404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Pangapunten kaulanun, kaca anu ku Salira dibuka henteu tiasa kapendak. Cobian pilari."
+
+#: archive.php:33
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Arsip Dintenan: <span>%s</span>"
+
+#: archive.php:35
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Arsip Sasihan: <span>%s</span>"
+
+#: archive.php:37
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Arsip Taunan: <span>%s</span>"
+
+#: archive.php:39
+msgid "Blog Archives"
+msgstr "Arsip Blog"
+
+#: attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "Mulih ka %s"
+
+#. translators: %s - title of parent post
+#: attachment.php:20
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: attachment.php:29
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Ku</span> %2$s"
+
+#: attachment.php:33
+#: functions.php:451
+#, php-format
+msgid "View all posts by %s"
+msgstr "Tingal sadaya seratan kénging %s"
+
+#: attachment.php:40
+#, php-format
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Dipedalkeun</span> %2$s"
+
+#: attachment.php:50
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "Ukuran aslina nyaéta %s pixels"
+
+#: attachment.php:53
+msgid "Link to full-size image"
+msgstr "Panumbu kana ukuran asli gambar"
+
+#: attachment.php:60
+#: attachment.php:107
+#: loop.php:95
+#: loop.php:118
+#: loop.php:160
+#: onecolumn-page.php:27
+#: page.php:32
+#: single.php:53
+msgid "Edit"
+msgstr "Ropéa"
+
+#: attachment.php:100
+#: functions.php:241
+#: loop.php:110
+#: loop.php:138
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lajengkeun maos <span class=\"meta-nav\">&rarr;</span>"
+
+#: attachment.php:101
+#: loop.php:139
+#: onecolumn-page.php:26
+#: page.php:31
+#: single.php:31
+msgid "Pages:"
+msgstr "Kaca:"
+
+#: author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Arsip Panulis: %s"
+
+#: author.php:37
+#: single.php:40
+#, php-format
+msgid "About %s"
+msgstr "Perkawis %s"
+
+#: category.php:16
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Arsip Katagori: %s"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Seratan ditulakan ku sandi. Lebetkeun tulakna kanggo ningal sakur komén."
+
+#: comments.php:35
+#, php-format
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "%1$s nu mairan %2$s"
+
+#: comments.php:41
+#: comments.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Komén Bari"
+
+#: comments.php:42
+#: comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Komén Haneut <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Komén ditutup."
+
+#. #-#-#-#-#  twentyten.pot (Twenty Ten 1.1)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: footer.php:33
+msgid "http://wordpress.org/"
+msgstr "http://su.wordpress.org/"
+
+#: footer.php:34
+msgid "Semantic Personal Publishing Platform"
+msgstr "Platform Pamedal Semantik Pribadi"
+
+#: footer.php:35
+#, php-format
+msgid "Proudly powered by %s."
+msgstr "Ku alpukahna %s."
+
+#: functions.php:97
+msgid "Primary Navigation"
+msgstr "Navigasi Utama"
+
+#. translators: header image description
+#: functions.php:133
+msgid "Berries"
+msgstr "Berries"
+
+#. translators: header image description
+#: functions.php:139
+msgid "Cherry Blossoms"
+msgstr "Cherry Blossoms"
+
+#. translators: header image description
+#: functions.php:145
+msgid "Concave"
+msgstr "Concave"
+
+#. translators: header image description
+#: functions.php:151
+msgid "Fern"
+msgstr "Fern"
+
+#. translators: header image description
+#: functions.php:157
+msgid "Forest Floor"
+msgstr "Forest Floor"
+
+#. translators: header image description
+#: functions.php:163
+msgid "Inkwell"
+msgstr "Inkwell"
+
+#. translators: header image description
+#: functions.php:169
+msgid "Path"
+msgstr "Lokasi"
+
+#. translators: header image description
+#: functions.php:175
+msgid "Sunset"
+msgstr "Sareupna"
+
+#: functions.php:308
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">pok:</span>"
+
+#: functions.php:311
+msgid "Your comment is awaiting moderation."
+msgstr "Komén Salira nuju ngantosan moderasi."
+
+#. translators: 1: date, 2: time
+#: functions.php:318
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s tabuh %2$s"
+
+#: functions.php:318
+#: functions.php:335
+msgid "(Edit)"
+msgstr "(Ropéa)"
+
+#: functions.php:335
+msgid "Pingback:"
+msgstr "Pingbék:"
+
+#: functions.php:354
+msgid "Primary Widget Area"
+msgstr "Aréa Wijét Utama"
+
+#: functions.php:356
+msgid "The primary widget area"
+msgstr "Aréa wijét utama"
+
+#: functions.php:365
+msgid "Secondary Widget Area"
+msgstr "Aréa Wijét Kadua"
+
+#: functions.php:367
+msgid "The secondary widget area"
+msgstr "Aréa wijét kadua"
+
+#: functions.php:376
+msgid "First Footer Widget Area"
+msgstr "Aréa Wijét Soko Kaca Kahiji"
+
+#: functions.php:378
+msgid "The first footer widget area"
+msgstr "Aréa wijét footer kahiji"
+
+#: functions.php:387
+msgid "Second Footer Widget Area"
+msgstr "Aréa Wijét Soko Kaca Kadua"
+
+#: functions.php:389
+msgid "The second footer widget area"
+msgstr "Aréa wijét footer kadua"
+
+#: functions.php:398
+msgid "Third Footer Widget Area"
+msgstr "Aréa Wijét Soko Kaca Katilu"
+
+#: functions.php:400
+msgid "The third footer widget area"
+msgstr "Aréa wijét footer katilu"
+
+#: functions.php:409
+msgid "Fourth Footer Widget Area"
+msgstr "Aréa Wijét Soko Kaca Kaopat"
+
+#: functions.php:411
+msgid "The fourth footer widget area"
+msgstr "Aréa wijét footer kaopat"
+
+#: functions.php:442
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"%1$s\">Dikintun kaping</span> %2$s <span class=\"meta-sep\">ku</span> %3$s"
+
+#: functions.php:468
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ieu seratan disimpen dina %1$s kalayan nganggo tag %2$s. Markabukukeun <a href=\"%3$s\" title=\"Permalink ka %4$s\" rel=\"bookmark\">permalink</a>-na."
+
+#: functions.php:470
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ieu seratan disimpen dina %1$s. Markabukukeun <a href=\"%3$s\" title=\"Permalink ka %4$s\" rel=\"bookmark\">permalink</a>-na."
+
+#: functions.php:472
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Markabukukeun <a href=\"%3$s\" title=\"Permalink ka %4$s\" rel=\"bookmark\">permalink</a>-na."
+
+#: header.php:33
+#, php-format
+msgid "Page %s"
+msgstr "Kaca %s"
+
+#: header.php:83
+msgid "Skip to content"
+msgstr "Luncat kana eusi"
+
+#: loop.php:25
+#: loop.php:173
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Seratan langkung heubeul"
+
+#: loop.php:26
+#: loop.php:174
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seratan langkung weuteuh <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop.php:35
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Hapunten! teu aya arsip anu kapendak. Cobi pilarian!"
+
+#: loop.php:60
+#: loop.php:92
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr "galéri"
+
+#: loop.php:62
+#: loop.php:83
+#: loop.php:126
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink ka %s"
+
+#: loop.php:82
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr "Ieu galéri ngandung <a %1$s>%2$s potrét</a>."
+
+#: loop.php:92
+msgid "View posts in the Gallery category"
+msgstr "Tingal seratan dina katagori Galéri"
+
+#: loop.php:92
+msgid "More Galleries"
+msgstr "Galéri Sanésna"
+
+#: loop.php:94
+#: loop.php:117
+#: loop.php:159
+msgid "Leave a comment"
+msgstr "Tunda talatah"
+
+#: loop.php:94
+#: loop.php:117
+#: loop.php:159
+msgid "1 Comment"
+msgstr "1 Komén"
+
+#: loop.php:94
+#: loop.php:117
+#: loop.php:159
+msgid "% Comments"
+msgstr "% Komén"
+
+#: loop.php:101
+msgctxt "asides category slug"
+msgid "asides"
+msgstr "asides"
+
+#: loop.php:146
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Dimuat dina</span> %2$s"
+
+#: loop.php:155
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Tag</span> %2$s"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Hasil Pamaluruhan: %s"
+
+#: search.php:26
+msgid "Nothing Found"
+msgstr "Teu Aya Nu Kapendak"
+
+#: search.php:28
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Hapunten, henteu aya anu kapendak. Sumangga cobian deui nganggo kiweud anu sanésna."
+
+#: sidebar.php:27
+msgid "Archives"
+msgstr "Arsip"
+
+#: sidebar.php:34
+msgid "Meta"
+msgstr "Méta"
+
+#: single.php:18
+#: single.php:58
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:19
+#: single.php:59
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:44
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tingal sadaya seratan kénging %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: tag.php:16
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Arsip Tag: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Ten"
+msgstr "Twenty Ten"
+
+#. Description of the plugin/theme
+msgid "The 2010 theme for WordPress is stylish, customizable, simple, and readable -- make it yours with a custom menu, header image, and background. Twenty Ten supports six widgetized areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the \"Asides\" and \"Gallery\" categories, and has an optional one-column page template that removes the sidebar."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "tim WordPress"
+
+#. Tags of the plugin/theme
+msgid "black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style"
+msgstr "hideung, biru, bodas, dua-kolom, rubak-kauger, header-kustom, latar-kustom, komén-ngumpak, seratan-sticky, sayogi-tarjamahan, mikroformat, ngadukung-basa-rtl, style-pangropéa"
+
+#~ msgid "Search results for %s"
+#~ msgstr "Hasil pamaluruhan %s"
+#~ msgid "The 2010 default theme for WordPress."
+#~ msgstr "Téma baku WordPress 2010"
+

@@ -1,0 +1,653 @@
+# kubrick theme pot file.
+# Copyright (C) 2007 WordPress
+# This file is distributed under the same license as the kubrick theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/theme\n"
+"POT-Creation-Date: 2009-12-23 23:38+0200\n"
+"PO-Revision-Date: 2010-01-05 21:42+0100\n"
+"Last-Translator: René Clausen Nielsen <rcn@shevy.dk>\n"
+"Language-Team: da_DK <rcn@shevy.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+
+#: 404.php:12
+msgid "Error 404 - Not Found"
+msgstr "Fejl 404 - Ikke fundet"
+
+#: archive.php:16
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Arkiv for kategorien &#8216;%s&#8217;"
+
+#: archive.php:18
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Indlæg tagget med &#8216;%s&#8217;"
+
+#: archive.php:20
+#, php-format
+msgid "Archive for %s|Daily archive page"
+msgstr "Arkiv for %s"
+
+#: archive.php:20
+#: index.php:17
+msgid "F jS, Y"
+msgstr "j. F Y"
+
+#: archive.php:22
+#, php-format
+msgid "Archive for %s|Monthly archive page"
+msgstr "Arkiv for %s"
+
+#: archive.php:22
+#: sidebar.php:33
+msgid "F, Y"
+msgstr "F Y"
+
+#: archive.php:24
+#, php-format
+msgid "Archive for %s|Yearly archive page"
+msgstr "Arkiv for %s"
+
+#: archive.php:24
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:26
+msgid "Author Archive"
+msgstr "Forfatterarkiv"
+
+#: archive.php:28
+msgid "Blog Archives"
+msgstr "Blogarkiv"
+
+#: archive.php:33
+#: archive.php:53
+#: index.php:29
+#: search.php:16
+#: search.php:33
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ældre indlæg"
+
+#: archive.php:34
+#: archive.php:54
+#: index.php:30
+#: search.php:17
+#: search.php:34
+msgid "Newer Entries &raquo;"
+msgstr "Nyere indlæg &raquo;"
+
+#: archive.php:39
+#: index.php:16
+#: search.php:24
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanent link til %s"
+
+#: archive.php:40
+#: image.php:32
+#: sidebar.php:30
+#: single.php:34
+msgid "l, F jS, Y"
+msgstr "l, j. F Y"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+#: single.php:26
+msgid "Tags:"
+msgstr "Tags:"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+#, php-format
+msgid "Posted in %s"
+msgstr "Gemt i %s"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "Edit"
+msgstr "Rediger"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "No Comments &#187;"
+msgstr "Ingen kommentarer &#187;"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "1 Comment &#187;"
+msgstr "1 kommentar &#187;"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "% Comments &#187;"
+msgstr "% kommentarer &#187;"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "Comments Closed"
+msgstr "Kommentarer lukket"
+
+#: archive.php:59
+#, php-format
+msgid "Sorry, but there aren't any posts in the %s category yet."
+msgstr "Der er desværre ingen indlæg i kategorien %s endnu."
+
+#: archive.php:61
+msgid "Sorry, but there aren't any posts with this date."
+msgstr "Der er desværre ingen indlæg med den dato."
+
+#: archive.php:64
+#, php-format
+msgid "Sorry, but there aren't any posts by %s yet."
+msgstr "Der er desværre ingen indlæg af %s endnu."
+
+#: archive.php:66
+msgid "No posts found."
+msgstr "Ingen indlæg fundet."
+
+#: archives.php:17
+msgid "Archives by Month:"
+msgstr "Arkiv efter måned:"
+
+#: archives.php:22
+msgid "Archives by Subject:"
+msgstr "Arkiv efter emne:"
+
+#: comments-popup.php:9
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s - Kommentarer til %2$s"
+
+#: comments-popup.php:28
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: comments-popup.php:30
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr>-feed af kommentarer til dette indlæg."
+
+#: comments-popup.php:33
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>en for at lave TrackBack til indlægget er: <em>%s</em>"
+
+#: comments-popup.php:51
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments-popup.php:51
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments-popup.php:51
+msgid "Pingback"
+msgstr "Pingback"
+
+#: comments-popup.php:51
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr "af %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+
+#: comments-popup.php:57
+msgid "No comments yet."
+msgstr "Endnu ingen kommentarer."
+
+#: comments-popup.php:61
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+#: comments-popup.php:62
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "Linjer og afsnit brydes automatisk og e-mail-adrsse vises aldrig. Tilladt <acronym title=\"Hypertext Markup Language\">HTML</acronym>: <code>%s</code>"
+
+#: comments-popup.php:66
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "Logget ind som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log ud fra denne konto\">Log ud &raquo;</a>"
+
+#: comments-popup.php:70
+#: comments.php:72
+msgid "Name"
+msgstr "Navn"
+
+#: comments-popup.php:75
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments-popup.php:80
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+
+#: comments-popup.php:85
+msgid "Your Comment"
+msgstr "Din kommentar"
+
+#: comments-popup.php:93
+msgid "Say It!"
+msgstr "Sig det!"
+
+#: comments-popup.php:98
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Beklager, der er i øjeblikket lukket for kommentarer."
+
+#: comments-popup.php:103
+msgid "Close this window."
+msgstr "Luk dette vindue."
+
+#: comments-popup.php:109
+#: image.php:65
+#: single.php:65
+msgid "Sorry, no posts matched your criteria."
+msgstr "Beklager, ingen indlæg matchede dine kriterier."
+
+#: comments-popup.php:113
+#, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "Siden bruger <a href=\"%s\" title=\"Siden bruger WordPress - en state-of-the-art semantisk personlig udgivelsesplatform\"><strong>WordPress</strong></a>"
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dette indlæg er kodeordsbeskyttet. Skriv kodeordet for at se kommentarerne."
+
+#: comments.php:21
+msgid "No Responses"
+msgstr "Ingen kommentarer"
+
+#: comments.php:21
+msgid "One Response"
+msgstr "En kommentar"
+
+#: comments.php:21
+msgid "% Responses"
+msgstr "% kommentarer"
+
+#: comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "til &#8220;%s&#8221;"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Kommentarer er lukkede."
+
+#: comments.php:53
+msgid "Leave a Reply"
+msgstr "Skriv en kommentar"
+
+#: comments.php:53
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Skriv en kommentar til %s"
+
+#: comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du skal være <a href=\"%s\">logget ind</a> for at skrive en kommentar."
+
+#: comments.php:67
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Logget ind som <a href=\"%1$s\">%2$s</a>."
+
+#: comments.php:67
+msgid "Log out of this account"
+msgstr "Log ud fra denne konto"
+
+#: comments.php:67
+msgid "Log out &raquo;"
+msgstr "Log ud &raquo;"
+
+#: comments.php:72
+#: comments.php:75
+msgid "(required)"
+msgstr "(nødvendig)"
+
+#: comments.php:75
+msgid "Mail (will not be published)"
+msgstr "E-mail (offentliggøres ikke)"
+
+#: comments.php:78
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:82
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Du kan bruge disse tags: <code>%s</code>"
+
+#: comments.php:86
+msgid "Submit Comment"
+msgstr "Send kommentar"
+
+#: footer.php:12
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s er stolt af at køre %2$s"
+
+#: footer.php:14
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$s og %2$s."
+
+#: footer.php:14
+msgid "Entries (RSS)"
+msgstr "Indlæg (RSS)"
+
+#: footer.php:14
+msgid "Comments (RSS)"
+msgstr "Kommentarer (RSS)"
+
+#: footer.php:15
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d forespørgsler. %s sekunder."
+
+#: functions.php:160
+msgid "Custom Header"
+msgstr "Egen header"
+
+#: functions.php:173
+msgid "Close Color Picker"
+msgstr "Luk farvevælger"
+
+#: functions.php:376
+msgid "Options saved."
+msgstr "Indstillinger gemt."
+
+#: functions.php:379
+msgid "Customize Header"
+msgstr "Lav header om"
+
+#: functions.php:393
+#: functions.php:400
+msgid "Save"
+msgstr "Gem"
+
+#: functions.php:394
+msgid "Font Color:"
+msgstr "Fontfarve:"
+
+#: functions.php:394
+#, php-format
+msgid "Any CSS color (%s or %s or %s)"
+msgstr "En hvilken som helst CSS-farve (%s eller %s eller %s)"
+
+#: functions.php:395
+msgid "Upper Color:"
+msgstr "Øvre farve:"
+
+#: functions.php:395
+#: functions.php:396
+#, php-format
+msgid "HEX only (%s or %s)"
+msgstr "Kun HEX (%s eller %s)"
+
+#: functions.php:396
+msgid "Lower Color:"
+msgstr "Nedre farve:"
+
+#: functions.php:398
+msgid "Toggle Text"
+msgstr "Toggle tekst"
+
+#: functions.php:399
+msgid "Use Defaults"
+msgstr "Brug standardværdier"
+
+#: functions.php:408
+msgid "Font Color"
+msgstr "Fontfarve"
+
+#: functions.php:409
+msgid "Upper Color"
+msgstr "Øvre farve"
+
+#: functions.php:410
+msgid "Lower Color"
+msgstr "Nedre farve"
+
+#: functions.php:411
+msgid "Revert"
+msgstr "Fortryd"
+
+#: functions.php:412
+msgid "Advanced"
+msgstr "Avanceret"
+
+#: functions.php:419
+msgid "Update Header"
+msgstr "Opdater header"
+
+#: functions.php:425
+msgid "Font Color (CSS):"
+msgstr "Fontfarve (CSS):"
+
+#: functions.php:426
+msgid "Upper Color (HEX):"
+msgstr "Øvre farve (HEX):"
+
+#: functions.php:427
+msgid "Lower Color (HEX):"
+msgstr "Nedre farve (HEX):"
+
+#: functions.php:428
+msgid "Select Default Colors"
+msgstr "Vælgt standardfarver"
+
+#: functions.php:429
+msgid "Toggle Text Display"
+msgstr "Toggle tekstvisning"
+
+#: image.php:20
+#: index.php:20
+#: single.php:23
+msgid "Read the rest of this entry &raquo;"
+msgstr "Læs resten af dette indlæg &raquo;"
+
+#: image.php:22
+#: page.php:17
+#: single.php:25
+msgid "Pages:"
+msgstr "Sider:"
+
+#: image.php:32
+#, php-format
+msgid "This entry was posted on %1$s at %2$s and is filed under %3$s."
+msgstr "Dette indlæg blev udgivet %1$s den %2$s og er gemt i %3$s."
+
+#: image.php:34
+#: single.php:35
+#, php-format
+msgid "You can follow any responses to this entry through the <a href='%s'>RSS 2.0</a> feed."
+msgstr "Du kan følge alle svar til dette indlæg via <a href='%s'>RSS 2.0</a>-feedet."
+
+#: image.php:38
+#: single.php:39
+#, php-format
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Du kan <a href=\"#respond\">skrive en kommentar</a>, eller sende et <a href=\"%s\" rel=\"trackback\">trackback</a> fra dit eget site."
+
+#: image.php:42
+#: single.php:43
+#, php-format
+msgid "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Der er lukket for kommentarer, men du kan sende et <a href=\"%s\" rel=\"trackback\">trackback</a> fra dit eget site."
+
+#: image.php:46
+#: single.php:47
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Du kan springe længere ned på siden og skrive en kommentar. Pinging er ikke tilladt i øjeblikket."
+
+#: image.php:50
+#: single.php:51
+msgid "Both comments and pings are currently closed."
+msgstr "Der er lukket for både kommentarer og pings i øjeblikket."
+
+#: index.php:35
+msgid "Not Found"
+msgstr "Ikke fundet"
+
+#: index.php:36
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Du leder desværre efter noget, der ikke er der."
+
+#: links.php:16
+msgid "Links:"
+msgstr "Links:"
+
+#: page.php:15
+msgid "Read the rest of this page &raquo;"
+msgstr "Læs resten af siden &raquo;"
+
+#: page.php:22
+msgid "Edit this entry."
+msgstr "Rediger dette indlæg."
+
+#: search.php:13
+msgid "Search Results"
+msgstr "Søgeresultater"
+
+#: search.php:39
+msgid "No posts found. Try a different search?"
+msgstr "Ingen indlæg blev fundet. Vil du prøve en anden søgning?"
+
+#: sidebar.php:16
+msgid "Author"
+msgstr "Forfatter"
+
+#: sidebar.php:27
+#, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "Du kigger i øjeblikket i arkiverne for kategorien %s."
+
+#: sidebar.php:30
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+msgstr "Du kigger i øjeblikket i arkiverne for dagen %3$s hos <a href=\"%1$s/\">%2$s</a>."
+
+#: sidebar.php:33
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+msgstr "Du kigger i øjeblikket i arkiverne for %3$s hos <a href=\"%1$s/\">%2$s</a>."
+
+#: sidebar.php:36
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+msgstr "Du kigger i øjeblikket i arkiverne for året %3$s hos <a href=\"%1$s/\">%2$s</a>."
+
+#: sidebar.php:39
+#, php-format
+msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "Du søgte efter <strong>&#8216;%3$s&#8217;</strong> hos <a href=\"%1$s/\">%2$s</a>. Hvis du ikke kan fine noget, kan du prøve et af følgende links."
+
+#: sidebar.php:42
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgstr "Du kigger i øjeblikket i blogarkiverne hos <a href=\"%1$s/\">%2$s</a>."
+
+#: sidebar.php:50
+msgid "Pages"
+msgstr "Sider"
+
+#: sidebar.php:52
+msgid "Archives"
+msgstr "Arkiv"
+
+#: sidebar.php:58
+msgid "Categories"
+msgstr "Kategorier"
+
+#: sidebar.php:64
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:68
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr "Denne side er gyldig XHTML 1.0 Transitional"
+
+#: sidebar.php:68
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr "Gyldig <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+
+#: sidebar.php:69
+msgid "XHTML Friends Network"
+msgstr "XHTML Friends Network"
+
+#: sidebar.php:69
+msgid "XFN"
+msgstr "Linkrelationer (XFN)"
+
+#: sidebar.php:70
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Denne webside bruger WordPress; et moderne, semantisk publiceringsverkt&oslash;j"
+
+#: single.php:34
+#, php-format
+msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+msgstr "Dette indlæg blev udgivet %1$s den %2$s kl. %3$s og er gemt i %4$s."
+
+#: single.php:53
+msgid "Edit this entry"
+msgstr "Rediger dette indlæg"
+
+#. Theme Name of an extension
+msgid "WordPress Default"
+msgstr "WordPress standard"
+
+#. Theme URI of an extension
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. Description of an extension
+msgid "The default WordPress theme based on the famous <a href=\"http://binarybonsai.com/kubrick/\">Kubrick</a>."
+msgstr "The default WordPress theme based on the famous <a href=\"http://binarybonsai.com/kubrick/\">Kubrick</a>."
+
+#. Author of an extension
+msgid "Michael Heilemann"
+msgstr "Michael Heilemann"
+
+#. Author URI of an extension
+msgid "http://binarybonsai.com/"
+msgstr "http://binarybonsai.com/"
+
+#. Tags of an extension
+msgid "blue, custom header, fixed width, two columns, widgets"
+msgstr "blue, custom header, fixed width, two columns, widgets"
+
+#~ msgid "Header Image and Color"
+#~ msgstr "Header-billede og -farve"
+#~ msgid "%s RSS Feed"
+#~ msgstr "%s RSS-feed"
+#~ msgid "%s Atom Feed"
+#~ msgstr "%s Atom-feed"
+#~ msgid "Search for:"
+#~ msgstr "Søg efter:"
+#~ msgid "Search"
+#~ msgstr "Søg"
+#~ msgid "<cite>%s</cite> Says:"
+#~ msgstr "<cite>%s</cite> siger:"
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Din kommentar afventer bedømmelse."
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s at %2$s"
+#~ msgid "edit"
+#~ msgstr "rediger"
+#~ msgid "&raquo; Blog Archive"
+#~ msgstr "&raquo; Blogarkiv"
+

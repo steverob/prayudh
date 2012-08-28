@@ -1,0 +1,196 @@
+
+/* =FlickrPress
+-------------------------------------------------------------- */
+.flickrpress-container {
+	overflow: auto;
+	text-align: left;
+/*	background: #08c;*/
+	margin-top: 13px;
+	overflow: hidden;
+}
+
+.flickrpress-container .flickrpress-items div {
+	display: inline-block;
+/*	background: #f7f8f9;*/
+	background: transparent;
+	padding: 0;
+/*	margin: 1px;*/
+	margin: -2px 2px 0 0;
+/*	border: 1px solid #d6d9dd;*/
+	border: none;
+}
+
+.flickrpress-container .flickrpress-items div a {
+	line-height: 0;
+}
+
+.flickrpress-container .flickrpress-items div {
+	/* IE can't do inline-block, but inline is equivalent */
+	*display: inline;
+}
+
+.flickrpress-container img {
+	margin: 0;
+}
+
+.flickrpress-container .flickr_item_view_squares img {
+	width: 62px;
+	height: 62px;
+	background: url(../images/loading-flickrpress.gif) no-repeat center center;
+	border: none;
+	transition: opacity 0.2s linear 0s;
+	-moz-transition: opacity 0.2s linear 0s;
+	-webkit-transition: opacity 0.2s linear 0s;
+	-o-transition: opacity 0.2s linear 0s;
+}
+
+.flickrpress-container .flickr_item_view_squares img:hover {
+	opacity: 0.7;
+	filter:alpha(opacity=70);
+}
+
+.flickrpress-container .flickrpress-navigation {
+	margin-top: 0;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+/*	text-transform: lowercase;*/
+}
+
+.flickrpress-container .flickrpress-navigation .flickrpress-navigation-previous {
+	float: left;
+	font-weight: bold;
+	cursor: pointer;
+	color: #98a3af;
+}
+
+.flickrpress-container .flickrpress-navigation .flickrpress-navigation-next {
+	float: right;
+	font-weight: bold;
+	cursor: pointer;
+	color: #98a3af;
+}
+
+.flickrpress-container .flickrpress-navigation .flickrpress-navigation-previous:hover,
+.flickrpress-container .flickrpress-navigation .flickrpress-navigation-next:hover {color: #5e646a;}
+
+.pending .flickrpress-navigation div {
+	text-indent: -9999px;
+	background: url(../images/loading-flickrpress.gif) no-repeat center center;
+	width: 16px;
+	height: 16px;
+}
+
+.flickrpress-container .flickrpress-items div span {
+	/* See below */
+	display: none;
+}
+
+
+/* =PageNavi
+-------------------------------------------------------------- */
+.wp-pagenavi {
+/*	font-family: 'Minion Pro';*/
+	font-size: 12px;
+	margin-bottom: 51px;
+	font-weight: bold;
+	color: #a3aab2;
+}
+
+.wp-pagenavi a,
+.wp-pagenavi span.current {
+	margin: auto 3px;
+	background: transparent;
+	padding: 3px 7px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.wp-pagenavi span.current {
+	background: #343c44;
+	color: #fff;
+}
+
+.wp-pagenavi a:hover {
+	background: #343c44;
+	color: #fff;
+}
+
+.wp-pagenavi .pages {
+	margin-right: 15px;
+}
+
+
+
+/* =WP125
+-------------------------------------------------------------- */
+#wp125 {}
+
+
+#wp125 img {
+	width: 220px;
+/*	height: 130px;*/
+}
+
+#wp125adwrap_2c .wp125ad {
+	width: 220px;
+	float: left;
+	padding: 0;
+}
+
+
+
+/* =Video Sidebar Widgets
+-------------------------------------------------------------- */
+.videosidebar h3.widget-title {margin-bottom: 3px;}
+
+
+/* =Twitter for Wordpress
+-------------------------------------------------------------- */
+a.twitter_title_link {
+	color: #4F5459;
+}
+
+li.twitter-item {
+	margin-bottom: 15px;
+	font-size: 12px;
+	line-height: 19px;
+}
+
+
+/* =GTranslate
+-------------------------------------------------------------- */
+li#gtranslate a {margin-right: 6px;}
+
+
+
+/* =Contact Form 7
+-------------------------------------------------------------- */
+.wpcf7 textarea {
+	width: 640px;
+}
+
+input.wpcf7-submit {
+	font-size: 15px;
+	font-weight: bold;
+	width: auto;
+	background: #629bce;
+	border: 1px solid #629bce;
+	padding: 9px;
+	color: #fff;
+}
+
+.wpcf7-submit:hover {
+	background: #8abbe6;
+	border: 1px solid #8abbe6;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
